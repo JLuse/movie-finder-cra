@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movie-finder-cra/static/css/main.c46dc5bb.css",
-    "main.js": "/movie-finder-cra/static/js/main.722f6630.js",
+    "main.js": "/movie-finder-cra/static/js/main.97795d3a.js",
     "index.html": "/movie-finder-cra/index.html",
     "main.c46dc5bb.css.map": "/movie-finder-cra/static/css/main.c46dc5bb.css.map",
-    "main.722f6630.js.map": "/movie-finder-cra/static/js/main.722f6630.js.map"
+    "main.97795d3a.js.map": "/movie-finder-cra/static/js/main.97795d3a.js.map"
   },
   "entrypoints": [
     "static/css/main.c46dc5bb.css",
-    "static/js/main.722f6630.js"
+    "static/js/main.97795d3a.js"
   ]
 }
