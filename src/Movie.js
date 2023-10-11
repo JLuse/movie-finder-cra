@@ -8,6 +8,7 @@ class Movie extends React.Component {
       movie: null,
     }
   }
+  
 
   componentDidMount () {
     fetch(`https://www.omdbapi.com/?i=${this.props.match.params.id}&apikey=b7da8d63`)
